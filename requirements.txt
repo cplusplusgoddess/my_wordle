@@ -1,0 +1,2 @@
+# pypi.org/project/wordle-utils
+wordle-utils==0.3.0
